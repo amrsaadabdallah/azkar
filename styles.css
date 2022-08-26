@@ -1,0 +1,38 @@
+body {
+    background-color: #313131;
+    color: white;
+    padding: 1rem;
+    border: 2px solid #eee;
+    margin: 2rem;
+    border-radius: 20px;
+    box-shadow: 0 0 2px #eee;
+	text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
+    font-style: italic;
+}
+
+h1 + p {
+  text-align: center;
+}
+
+hr + ul {
+  list-style-type: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0 20px ;
+}
+
+li {
+    font-size: 2rem;
+}
+
+hr {
+    margin: 6rem;
+}
