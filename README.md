@@ -15,7 +15,6 @@
   - 🚩 It's a private repo <a target="_blank" href="mailto:amrsaadabdallah@gmail.com">contact me </a>to see.
 
 ---
----
 
 ### 📝 Project Description & features:
 
